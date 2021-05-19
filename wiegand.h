@@ -4,7 +4,7 @@
 #define WIEGAND_PERIOD 		2000
 #define WIEGAND_BIT_TIME 	200
 
-#define WIEGAND_TIMEOUT_MS		500
+#define WIEGAND_TIMEOUT_MS		50
 
 void WiegandInit(TIM_HandleTypeDef *htim);
 
