@@ -13,7 +13,7 @@ void WiegandProcessTx(void);
 void WiegandTransmit(uint32_t data, uint32_t bits);
 
 /*RX*/
-void wiegandSaveBit(uint32_t bit);
-void wiegandTimeout();
+void WiegandSaveBit(uint32_t bit);
+void WiegandTimeout();
 
 #endif
