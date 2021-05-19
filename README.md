@@ -23,3 +23,10 @@
 6. Принятые данные выводятся в консоль отладчика.
 
 Пример: https://github.com/minilex/WIEGAND_RX
+
+Работа примеров в паре:
+
+![wiegand _osc](https://user-images.githubusercontent.com/42541058/118799031-b7604e00-b8b7-11eb-844e-41f971243a78.jpg)
+![wiegand_debug](https://user-images.githubusercontent.com/42541058/118799048-bcbd9880-b8b7-11eb-98d6-14e630f105c8.JPG)
+
+
