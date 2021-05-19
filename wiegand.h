@@ -4,9 +4,9 @@
 #define WIEGAND_PERIOD 		2000
 #define WIEGAND_BIT_TIME 	200
 
-void wiegandProcess(void);
-void wiegandTransmit(uint32_t data, uint32_t bits);
-void wiegandInit(TIM_HandleTypeDef *htim);
+void WiegandProcess(void);
+void WiegandTransmit(uint32_t data, uint32_t bits);
+void WiegandInit(TIM_HandleTypeDef *htim);
 
 
 #endif
